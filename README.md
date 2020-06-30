@@ -5,7 +5,7 @@ basic webpack
 ### 개발 모드
 
 ```
-npm run serve:dev
+npm run start
 ```
 
 ```
